@@ -1,0 +1,6 @@
+.prettierrc {
+    "tabWidth": 4,
+    "printWidth": 119,
+    "singleQuote": true
+ }
+  
